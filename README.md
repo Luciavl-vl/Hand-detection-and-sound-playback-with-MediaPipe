@@ -1,1 +1,1 @@
-# Detecci-n-de-manos-y-reproducci-n-de-sonidos-con-MediaPipe
+# Hand detection and sound playback with MediaPipe
