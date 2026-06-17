@@ -1,0 +1,1 @@
+# Detecci-n-de-manos-y-reproducci-n-de-sonidos-con-MediaPipe
